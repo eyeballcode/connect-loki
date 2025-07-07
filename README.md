@@ -8,6 +8,8 @@
 
 ##### A Loki.js session store for Connect/Express
 
+Note: Modified to allow for custom collection names other than `Sessions`
+
 ### Setup
 
 ```shell
