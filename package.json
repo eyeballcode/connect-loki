@@ -1,6 +1,6 @@
 {
   "name": "@transportme/connect-loki",
-  "version": "1.2.3",
+  "version": "1.3.1",
   "description": "A Loki.js session store for Connect/Express with some modifications",
   "main": "index.js",
   "scripts": {
